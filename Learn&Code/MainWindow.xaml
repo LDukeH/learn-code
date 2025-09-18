@@ -8,7 +8,7 @@
         Title="LocDepTrai" Height="450" Width="800">
     <Grid>
         <TextBlock>
-            Hello Loc
+            This is branch 1
         </TextBlock>
 
     </Grid>
